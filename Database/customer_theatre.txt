@@ -1,0 +1,6 @@
+MAIL,BOOKD,FILMID,DATE_,TIME_,CLASS
+pavanvamsi3@gmail.com,1234,Inception,Tue Mar 05 09:11:22 IST 2013,13 : 30,Silver ( Rs. 150 )
+pavanvamsi3@gmail.com,1234,Jab We Met,Fri Mar 01 09:58:10 IST 2013,17 : 30,Silver ( Rs. 150 )
+pavanvamsi3@gmail.com,1234,Se7en,Wed Mar 20 10:00:34 IST 2013,22 : 00,Silver ( Rs. 150 )
+rahul.gupta@gmail.com,1234,Fight Club,Sun Mar 24 13:31:46 IST 2013,10 : 00,Silver ( Rs. 150 )
+talk2vamsi,1234,Fight Club,Sun Mar 24 14:25:02 IST 2013,10 : 00,Silver ( Rs. 150 )

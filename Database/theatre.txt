@@ -1,0 +1,6 @@
+SCREEN,NOW_PLAYING,NEXT_CHANGE,TIMINGS
+1,Fight Club,The Prestige,"10:00, 1:30, 5:00, 10:00"
+2,Inception,Se7en,"10:00, 1:30, 5:00, 10:00"
+3,Memento,One Day,"10:00, 1:30, 5:00, 10:00"
+4,Jab We Met,Don,"10:00, 1:30, 5:00, 10:00"
+5,Murder 2,Taare Zameen Par,"10:00, 1:30, 5:00, 10:00"

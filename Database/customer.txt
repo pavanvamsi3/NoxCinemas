@@ -1,0 +1,6 @@
+EMAIL,FIRST_NAME,LAST_NAME,PHONE,DOB,S_QUESTION,ANSWER,PASSWORD,PWC
+praneeth.crazy1@gmail.com,Praneeth,Daitha,1234,12/23/2211,Your first movie ?,Inception,passwd,1
+pavanvamsi3@gmail.com,Pavan,Vamsi,,13/03/193,Your childhood hero ?,Hulk,passwd,1
+nivas@gmail.com,Nivas,Hari,9885844799,20/10/2001,Your childhood hero ?,Spiderman,passwd,1
+rahul.gupta@gmail.com,Rahul,Gupta,123456789,12/03/1992,Your first movie ?,Ishq,passwd,1
+talk2vamsi,Vamsi,Pavan,2094,13/03/1993,Your childhood hero ?,superman,lol,1

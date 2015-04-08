@@ -1,0 +1,11 @@
+MOVIEID,NAME,STARCAST,DIRECTOR,GENRE
+1,Fight Club,"Brad Pitt, Edward Norton",David Fincher,Drama
+2,Inception,"Leonardo Dicaprio, Joseph",Christopher Nolan,Mystery
+3,Memento,"Guy Pearce, Anne Moss",Chirstopher Nolan,Mystery
+4,Jab We Met,"Shahid Kapoor, Kareena",Imtiaz Ali,Romance
+5,Murder 2,"Imran Hashmi, Yana Gupta",Mohit Suri,Crime
+6,The Prestige,"Christian Bale, Hugh Jackman",Christopher Nolan,Thriller
+7,Se7en,"Morgan Freeman, Brad Pitt",David Fincher,Crime
+8,One Day,"Anne Hathway, Jim Strugges",Lone Scherfig,Drama
+9,Don,"Shahrukh Khan, Priyanka",Farhan Akhtar,Crime
+10,Taare Zameen Par,"Darsheel, Aamir Khan",Aamir Khan,Drama
